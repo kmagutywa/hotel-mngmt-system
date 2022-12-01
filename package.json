@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/tramyardg/hotel-mgmt-system",
   "homepage": "http://hotel-mgmt-system.co.nf/",
-  "author": "Raymart De Guzman <raymart54@gmail.com>",
+  "author": "Kwakhanya Magutywa",
   "private": false,
   "scripts": {
     "eslint": "eslint js/*.js"
